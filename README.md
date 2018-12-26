@@ -1,5 +1,7 @@
 ## Introduction
 
+<img src="http://openocl.github.io/imgs/lemn.png" width="80%">
+
 Talk by Giovanni Licitra at the Airborne Wind Energy Conference 2017:
 [https://videoportal.uni-freiburg.de/video/OpenAWE](https://videoportal.uni-freiburg.de/video/OpenAWE-An-Open-Source-Toolbox-for-the-Optimization-of-AWE-Flight-Trajectories/c7ca160a8258512a3adb052646d26c21)
 
