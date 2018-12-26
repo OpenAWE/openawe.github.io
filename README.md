@@ -1,5 +1,3 @@
-# OpenAWE
-
 ## Introduction
 
 Talk by Giovanni Licitra at the Airborne Wind Energy Conference 2017:
