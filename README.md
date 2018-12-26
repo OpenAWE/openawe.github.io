@@ -2,15 +2,14 @@
 
 Talk by Giovanni Licitra at the Airborne Wind Energy Conference 2017:
 
-https://videoportal.uni-freiburg.de/video/OpenAWE-An-Open-Source-Toolbox-for-the-Optimization-of-AWE-Flight-Trajectories/c7ca160a8258512a3adb052646d26c21
+[https://videoportal.uni-freiburg.de/video/OpenAWE...](https://videoportal.uni-freiburg.de/video/OpenAWE-An-Open-Source-Toolbox-for-the-Optimization-of-AWE-Flight-Trajectories/c7ca160a8258512a3adb052646d26c21)
 
 ## Legal notice
 
 Please see license information in the LICENSE file.
-Please contact Jonas.Koenemann@yahoo.de for more information.
 
 Open AWE toolbox
-Copyright (C) 2016-2017  Jonas Koenemann
+Copyright (C) 2016-2019  Jonas Koenemann
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -31,5 +30,4 @@ This project has received funding from the European Union’s Horizon 2020 resea
 Use without warranty.
 
 Jonas Koenemann
-University of Freiburg, Ampyx Power
-Jonas.Koenemann [at] imtek.de
+Jonas.Koenemann [at] yahoo.de
