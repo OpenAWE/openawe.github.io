@@ -1,4 +1,4 @@
-<img src="http://openocl.github.io/imgs/lemn.png" width="30%"> <img hspace="20" style="padding-left=30px;" src="http://openocl.github.io/imgs/circ.png" width="30%">
+<img src="http://openocl.github.io/imgs/lemn.png" width="40%"> <img hspace="15" style="padding-left=30px;" src="http://openocl.github.io/imgs/circ.png" width="40%">
 
 ## Introduction
 
