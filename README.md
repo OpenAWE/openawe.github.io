@@ -1,6 +1,6 @@
 # Airborne Wind Energy Library
 
-<img src="https://openocl.github.io/imgs/lemn.png" width="40%"> <img hspace="15" src="https://openocl.github.io/imgs/circ.png" width="40%">
+<img src="https://openocl.org/imgs/lemn.png" width="40%"> <img hspace="15" src="https://openocl.org/imgs/circ.png" width="40%">
 
 ## Introduction
 
