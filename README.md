@@ -7,7 +7,7 @@
 Talk by Giovanni Licitra at the Airborne Wind Energy Conference 2017:
 [https://videoportal.uni-freiburg.de/video/OpenAWE](https://videoportal.uni-freiburg.de/video/OpenAWE-An-Open-Source-Toolbox-for-the-Optimization-of-AWE-Flight-Trajectories/c7ca160a8258512a3adb052646d26c21)
 
-OpenAWE is a library of airborne wind energy models, and trajectory optimization for airborne wind energy systems. Optimal control problems are formulated using [OpenOCL](https://openocl.org), and solved using [CasADi](http://casadi.org). Check the README on github for more details.
+OpenAWE is a library of airborne wind energy models, and trajectory optimization toolbox for airborne wind energy systems. Optimal control problems are formulated using [OpenOCL](https://openocl.org), and solved using [CasADi](http://casadi.org). Check the README on github for more details.
 
 ## Publications
 
